@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/th-interfaceComparable",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "tien2009",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Circles\\": "Circle",
+      "Comparable\\": "Comparable"
+    }
+  },
+  "require": {
+  }
+}
